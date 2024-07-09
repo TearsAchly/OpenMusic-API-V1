@@ -91,4 +91,3 @@ Please open a pull request or submit an issue to contribute to this project.
 ## Licence
 
 This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more information.
-```
